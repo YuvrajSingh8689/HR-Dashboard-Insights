@@ -10,7 +10,7 @@ Detail: Department-wise breakdown of employees due for promotion and retrenchmen
 Action: List of employees due for promotion and retrenchment, highlighting the individuals who need immediate attention.
 These visualizations are crucial for HR teams to make data-driven decisions regarding employee management and organizational development.
 
-![Screenshot 2024-06-29 194302](https://github.com/YuvrajSingh8689/HR-Dashboard-Insights/assets/142512099/aa8b6e51-2348-4f09-bcee-ae48913d79dc)
-
-![Screenshot 2024-06-29 194239](https://github.com/YuvrajSingh8689/HR-Dashboard-Insights/assets/142512099/bef25ea2-865d-40cb-ad04-92839d5e00a0)
 ![Screenshot 2024-06-29 194212](https://github.com/YuvrajSingh8689/HR-Dashboard-Insights/assets/142512099/59efa7fe-2b38-4bbd-a8d8-1bd94618fcce)
+![Screenshot 2024-06-29 194302](https://github.com/YuvrajSingh8689/HR-Dashboard-Insights/assets/142512099/aa8b6e51-2348-4f09-bcee-ae48913d79dc)
+![Screenshot 2024-06-29 194239](https://github.com/YuvrajSingh8689/HR-Dashboard-Insights/assets/142512099/bef25ea2-865d-40cb-ad04-92839d5e00a0)
+
